@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Panis\bin\Debug\net7.0\Panis.exe
+C:\Users\user\Documents\Panis\bin\Debug\net7.0\Panis.deps.json
+C:\Users\user\Documents\Panis\bin\Debug\net7.0\Panis.runtimeconfig.json
+C:\Users\user\Documents\Panis\bin\Debug\net7.0\Panis.dll
+C:\Users\user\Documents\Panis\bin\Debug\net7.0\Panis.pdb
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.AssemblyInfo.cs
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.dll
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\refint\Panis.dll
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.pdb
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\Panis.genruntimeconfig.cache
+C:\Users\user\Documents\Panis\obj\Debug\net7.0\ref\Panis.dll
